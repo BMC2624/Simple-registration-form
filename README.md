@@ -1,0 +1,2 @@
+# Simple-registration-form
+The aim of this Simple Registration Form is to build a user registration system that will completely automate the process of new user registration in a database. The purpose of registration of a form is to give notice to the world of a certain property form having been executed. Record keeping is another important function of registration form(database). The system will handle the document submission, testing process and registration of new User. 
